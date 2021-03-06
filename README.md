@@ -1,7 +1,7 @@
 # Web-Design-Challenge
 # Web Visualization Dashboard (Latitude)
 
-To view output: file:///Users/aishy/Documents/htmlhomework/Web-Design-Challenge/landing.html
+
 
 
 ## Background
