@@ -1,7 +1,7 @@
 # Web-Design-Challenge
 # Web Visualization Dashboard (Latitude)
 
-
+To view the output - please click on the click https://alaaishu.github.io/
 
 
 ## Background
